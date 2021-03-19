@@ -17,7 +17,7 @@ public class Calculate {
 		berat.setBerat(weight); 
 		
 		weight = berat.getBerat();
-		System.out.println("\n" + weight);
+		System.out.println("\n" + weight + "kg");
 	}
 	
 	
